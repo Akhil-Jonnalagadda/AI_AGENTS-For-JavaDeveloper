@@ -1162,11 +1162,6 @@ OpenAI API and LangChain enable Java developers to **build intelligent, AI-power
 
 ---
 
-✅ **How to use this table in your README:**
-
-* Place it after a short introduction about AI agents.
-* Add links to each tool’s website for reference.
-* You can also include badges like `![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI-blue)` for a visually appealing README.
 
 ---
 
